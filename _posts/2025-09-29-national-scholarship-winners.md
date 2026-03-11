@@ -1,17 +1,17 @@
 ---
-title: 中心3位同学李晨阳、曹瀚文、路浩博荣获2025年度研究生国家奖学金
+title: 团队4位同学林家庆、陈丽帆、罗翔宇、裘枫荣获2025年度研究生国家奖学金
 image: images/posts/cover.webp
 tags: 新闻
 last_modified_at: ""
 ---
 
-金秋送爽，硕果盈枝。近日，2025年度研究生国家奖学金获奖名单公布，华中科大Hopcroft计算科学研究中心三位同学李晨阳、曹瀚文、路浩博凭借其卓越的学术科研成果和优异的综合表现，荣获此项国家级荣誉。这不仅是他们个人汗水与智慧的结晶，更是中心拔尖创新人才培养实力的集中展现。
+金秋送爽，硕果盈枝。近日，2025年度研究生国家奖学金获奖名单公布，湖北大学ICAE团队四位同学林家庆、陈丽帆、罗翔宇、裘枫凭借其卓越的学术科研成果和优异的综合表现，荣获此项国家级荣誉。这不仅是他们个人汗水与智慧的结晶，更是中心拔尖创新人才培养实力的集中展现。
 
 <!-- <div align="center">
   <img src="/images/posts/2025-09-29-national-scholarship-winners/image_1.jpg" style="max-width: 600px; width: 100%; height: auto;">
 </div> -->
 
-## 李晨阳 2023级硕士研究生
+## 林家庆 2023级硕士研究生
 
 **研究方向：** 图表征学习；多模态深度学习
 
@@ -33,7 +33,7 @@ last_modified_at: ""
   <img src="/images/posts/2025-09-29-national-scholarship-winners/image_2.png" alt="李晨阳同学" style="max-width: 300px; width: 100%; height: auto;">
 </div>
 
-## 曹瀚文 2023级硕士研究生
+## 陈丽帆 2024级硕士研究生
 
 **研究方向：** 人工智能安全；对抗样本
 
@@ -59,7 +59,7 @@ last_modified_at: ""
   <img src="/images/posts/2025-09-29-national-scholarship-winners/image_3.png" alt="曹瀚文同学" style="max-width: 300px; width: 100%; height: auto;">
 </div>
 
-## 路浩博 2023级硕士研究生，2025级博士研究生（硕博连读）
+## 罗翔宇 2023级硕士研究生，2023级博士研究生
 
 **研究方向：** 人工智能安全；对抗样本生成
 
