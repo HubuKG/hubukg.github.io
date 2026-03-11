@@ -1,7 +1,7 @@
 ---
 name: 石科
 image: 
-role: 2022
+role: undergrad
 description: 保研电子科技大学直博
 affiliation: 湖北大学
 aliases:
