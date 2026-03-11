@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # JHL-HUST's Website
+  # HubuKG's Website
 
   Visit **[hubukg.github.io](https://hubukg.github.io)** 🚀
 
