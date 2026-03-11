@@ -1,7 +1,7 @@
 ---
 name: 徐传芳
 image: 
-role: postgraduate
+role: 2025
 description: 
 affiliation: 湖北大学
 aliases:
