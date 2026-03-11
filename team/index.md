@@ -43,7 +43,7 @@ nav:
 {% capture content %}
 
 {% include figure.html image="images/members/team_photos/jiebangguashuai.jpg" %}
-{% include figure.html image="images/members/team_photos/bigtangbei.jpg" %}
+{% include figure.html image="images/members/team_photos/bigtangbei.png" %}
 
 {% endcapture %}
 
