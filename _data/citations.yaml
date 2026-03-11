@@ -1,3 +1,248 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-[]
+- id: doi:10.1016/j.eswa.2026.131914
+  title: Corrective aggregation and preference-aware for multimodal recommendation
+    systems
+  authors:
+  - Dongsheng Zhou
+  - Xiaoju Hou
+  - Yan Zhang
+  - Yahui Zhou
+  - Dunhui Yu
+  - Zhifei Li
+  publisher: Expert Systems with Applications
+  date: '2026-06-01'
+  link: https://doi.org/hbr5fg
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.inffus.2025.103989
+  title: Heterogeneous environment-aware multimodal recommendation with modality alignment
+  authors:
+  - Ke Shi
+  - Yan Zhang
+  - Miao Zhang
+  - Kui Xiao
+  - Dunhui Yu
+  - Yahui Zhou
+  - Wenxin Huang
+  - Zhifei Li
+  publisher: Information Fusion
+  date: '2026-05-01'
+  link: https://doi.org/hbr5fh
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neucom.2026.132770
+  title: Knowledge concept cold-start approach for cognitive diagnosis
+  authors:
+  - Miao Zhang
+  - Huihuan Li
+  - Lele Zheng
+  - Shunfeng Tan
+  - Chao Yang
+  - Kui Xiao
+  - Zhifang Huang
+  - Zhifei Li
+  publisher: Neurocomputing
+  date: '2026-04-01'
+  link: https://doi.org/hbr5fj
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.knosys.2026.115607
+  title: Noisy or structural? Knowledge graph-based dual-view diffusion for recommendation
+    systems
+  authors:
+  - Zhifei Li
+  - Chuyuan Xie
+  - Jinfeng Wu
+  - Lu Wang
+  - Chuanfang Xu
+  - Yuebing Li
+  - Yan Zhang
+  publisher: Knowledge-Based Systems
+  date: '2026-04-01'
+  link: https://doi.org/hbr5fk
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3796713
+  title: 'HiMod: Hierarchical Modeling with Graph Perturbation for Enhanced Inductive
+    Knowledge Graph Reasoning'
+  authors:
+  - Chenyi Xiong
+  - Jing Hu
+  - Yue Zhao
+  - Miao Zhang
+  - Kui Xiao
+  - Zhifang Huang
+  - Dunhui Yu
+  - Yan Zhang
+  - Zhifei Li
+  publisher: ACM Transactions on Knowledge Discovery from Data
+  date: '2026-02-10'
+  link: https://doi.org/hbr5fm
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TMM.2026.3651122
+  title: Integrating Object Interaction Self-Attention and GAN-Based Debiasing for
+    Visual Question Answering
+  authors:
+  - Zhifei Li
+  - Feng Qiu
+  - Yiran Wang
+  - Yujing Xia
+  - Kui Xiao
+  - Miao Zhang
+  - Yan Zhang
+  publisher: IEEE Transactions on Multimedia
+  date: '2026-01-01'
+  link: https://doi.org/hbr5fn
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3760786
+  title: Adaptive Modality Interaction Transformer for Multimodal Knowledge Graph
+    Completion
+  authors:
+  - Yue Jian
+  - Miao Zhang
+  - Ziyue Qin
+  - Chuyuan Xie
+  - Kui Xiao
+  - Yan Zhang
+  - Zhifei Li
+  publisher: ACM Transactions on Knowledge Discovery from Data
+  date: '2025-09-17'
+  link: https://doi.org/hbr5fq
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.knosys.2025.113766
+  title: Noise-enhanced graph contrastive learning for multimodal recommendation systems
+  authors:
+  - Ke Shi
+  - Yan Zhang
+  - Miao Zhang
+  - Kui Xiao
+  - Xiaoju Hou
+  - Zhifei Li
+  publisher: Knowledge-Based Systems
+  date: '2025-08-01'
+  link: https://doi.org/hbr5fs
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ipm.2024.104048
+  title: Graph structure prefix injection transformer for multi-modal entity alignment
+  authors:
+  - Yan Zhang
+  - Xiangyu Luo
+  - Jing Hu
+  - Miao Zhang
+  - Kui Xiao
+  - Zhifei Li
+  publisher: Information Processing &amp; Management
+  date: '2025-05-01'
+  link: https://doi.org/hbr5fv
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.knosys.2025.113040
+  title: 'MHRN: A multi-perspective hierarchical relation network for knowledge graph
+    embedding'
+  authors:
+  - Zengcan Xue
+  - Zhaoli Zhang
+  - Hai Liu
+  - Zhifei Li
+  - Shuyun Han
+  - Erqi Zhang
+  publisher: Knowledge-Based Systems
+  date: '2025-03-01'
+  link: https://doi.org/hbr5fw
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ins.2024.121639
+  title: Aggregation or separation? Adaptive embedding message passing for knowledge
+    graph completion
+  authors:
+  - Zhifei Li
+  - Lifan Chen
+  - Yue Jian
+  - Han Wang
+  - Yue Zhao
+  - Miao Zhang
+  - Kui Xiao
+  - Yan Zhang
+  - Honglian Deng
+  - Xiaoju Hou
+  publisher: Information Sciences
+  date: '2025-02-01'
+  link: https://doi.org/hbr5fx
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TBDATA.2025.3552330
+  title: Enhancing Weak Supervision for Concept Prerequisite Relation Learning
+  authors:
+  - Miao Zhang
+  - Jiawei Wang
+  - Kui Xiao
+  - Zhifang Huang
+  - Zhifei Li
+  - Yan Zhang
+  publisher: IEEE Transactions on Big Data
+  date: '2025-10-01'
+  link: https://doi.org/hbr5fz
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ipm.2024.103797
+  title: Text-enhanced knowledge graph representation learning with local structure
+  authors:
+  - Zhifei Li
+  - Yue Jian
+  - Zengcan Xue
+  - Yumin Zheng
+  - Miao Zhang
+  - Yan Zhang
+  - Xiaoju Hou
+  - Xiaoguang Wang
+  publisher: Information Processing &amp; Management
+  date: '2024-09-01'
+  link: https://doi.org/hbr5f2
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TNNLS.2021.3055147
+  title: Learning Knowledge Graph Embedding With Heterogeneous Relation Attention
+    Networks
+  authors:
+  - Zhifei Li
+  - Hai Liu
+  - Zhaoli Zhang
+  - Tingting Liu
+  - Neal N. Xiong
+  publisher: IEEE Transactions on Neural Networks and Learning Systems
+  date: '2022-08-01'
+  link: https://doi.org/gndq2c
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TKDE.2020.3005952
+  title: Multi-Scale Dynamic Convolutional Network for Knowledge Graph Embedding
+  authors:
+  - Zhaoli Zhang
+  - Zhifei Li
+  - Hai Liu
+  - Neal N. Xiong
+  publisher: IEEE Transactions on Knowledge and Data Engineering
+  date: '2022-05-01'
+  link: https://doi.org/hbr5f3
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
