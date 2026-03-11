@@ -2,8 +2,10 @@
 name: 李志飞
 image: images/members/pi/john_hopcroft.png
 role: principal-investigator
-description: 中心主任
+description: 团队主任
 affiliation: 湖北大学
+aliases:
+  - Zhifei Li
 links:
   home-page: https://zhifei1993.github.io/
   email: zhifei1993hubu.edu.cn
