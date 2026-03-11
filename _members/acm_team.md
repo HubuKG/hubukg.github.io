@@ -1,7 +1,7 @@
 ---
 name: ACM校集训队
 image: 
-role: undergrad
+role: dsdsdsds
 description: 校级示范性创新团队
 affiliation: 华中科技大学
 links:
