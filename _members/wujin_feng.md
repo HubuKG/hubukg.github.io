@@ -1,7 +1,7 @@
 ---
 name: 吴锦锋
 image: 
-role: postgraduate
+role: 2025
 description: 
 affiliation: 湖北大学
 aliases:
