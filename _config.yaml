@@ -1,17 +1,17 @@
 # site properties and page defaults
-title: 华中科技大学John Hopcroft计算中心
-subtitle: Hopcroft Center on Computer Science, HUST
-description: 华中科技大学John Hopcroft计算中心官方网站
+title: 湖北大学教育智能计算与应用团队
+subtitle: Intelligent Computing and Application on Education Lab，ICAE
+description: 湖北大学教育智能计算与应用团队官方网站
 header: images/background.png
 footer: images/background.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@JHL-HUST.com
-  orcid: 0000-0001-7627-4604
-  google-scholar: YTQnGJsAAAAJ
-  github: JHL-HUST
+  email: zhifei1993hubu.edu.cn
+  orcid: 0000-0003-0443-0094
+  google-scholar: aC2qAuEAAAAJ
+  github: HubuKG
   # twitter: JHL-HUST
   # youtube: JHL-HUST
 
