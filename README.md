@@ -5,6 +5,6 @@
 
   # JHL-HUST's Website
 
-  Visit **[jhl-hust.github.io](https://jhl-hust.github.io)** 🚀
+  Visit **[hubukg.github.io](https://hubukg.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
