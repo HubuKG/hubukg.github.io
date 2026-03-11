@@ -1,6 +1,6 @@
 ---
 name: 李志飞
-image: images/members/pi/john_hopcroft.png
+image: images/members/pi/lizhifei.jpg
 role: principal-investigator
 description: 团队主任
 affiliation: 湖北大学
