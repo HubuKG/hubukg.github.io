@@ -4,7 +4,7 @@
 <script src="https://unpkg.com/mark.js@8" defer></script>
 
 <!-- include all js in scripts folder -->
-{% assign scripts = site.static_files | where_exp: "file", "file.path contains '/_scripts'" %}
+{% assign scripts = site.static_files | where_exp: "file", "file.path contains '/scripts'" %}
 {% for script in scripts %}
   <script src="{{ script.path | relative_url }}"></script>
 {% endfor %}
