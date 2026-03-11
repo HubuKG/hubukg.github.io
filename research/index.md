@@ -18,7 +18,7 @@ nav:
 {% include section.html %}
 
 ## 所有成果
-> 根据ORCID自动检索，个别会议论文暂未收录，将逐步整理，可以访问何琨老师的[谷歌学术页面](https://scholar.google.com/citations?hl=zh-CN&user=aC2qAuEAAAAJ)查看会议论文信息。
+> 根据ORCID自动检索，个别会议论文暂未收录，将逐步整理，可以访问李志飞老师的[谷歌学术页面](https://scholar.google.com/citations?hl=zh-CN&user=aC2qAuEAAAAJ)查看会议论文信息。
 
 {% include search-box.html %}
 
