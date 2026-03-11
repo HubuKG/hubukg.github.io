@@ -1,7 +1,7 @@
 ---
 name: 王路
 image: 
-role: postgraduate
+role: 2025
 description: 
 affiliation: 湖北大学
 aliases:
