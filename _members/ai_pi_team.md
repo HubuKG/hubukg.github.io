@@ -1,7 +1,7 @@
 ---
 name: AI派团队
 image: images/members/undergrad/ai_pai.png
-role: undergrad
+role: dsdsdsd
 description: 校级示范性创新团队
 affiliation: 华中科技大学
 links:
