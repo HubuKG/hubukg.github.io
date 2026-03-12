@@ -1,6 +1,6 @@
 ---
 name: 陈丽帆
-image: 
+image: images/members/researchers/lifan_chen.jpg
 role: 2024
 description: 硕士国奖
 affiliation: 
