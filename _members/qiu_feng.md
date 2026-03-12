@@ -3,7 +3,7 @@ name: 裘枫
 image: 
 role: 2023
 description: 硕士国奖
-affiliation: 湖北大学
+affiliation: 
 aliases:
   - Feng Qiu
 links:

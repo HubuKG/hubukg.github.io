@@ -3,7 +3,7 @@ name: 谢光辉
 image: 
 role: 2023
 description: 
-affiliation: 湖北大学
+affiliation: 
 aliases:
   - Guanghui Xie
 links:

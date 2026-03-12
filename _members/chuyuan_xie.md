@@ -3,14 +3,14 @@ name: 谢楚源
 image: 
 role: 2024
 description: 
-affiliation: 湖北大学
+affiliation: 
 aliases:
   - Chuyuan Xie
 links:
-  home-page: 
-  orcid: 
-  email:
-  github: 
+  home-page: www.xcyhx.art
+  orcid: https://orcid.org/0009-0000-4222-6399
+  email: https://orcid.org/0009-0000-4222-6399
+  github: https://github.com/JayILoveYou
 
 ---
 
@@ -21,3 +21,11 @@ links:
 - 湖北师范大学计算机学院2019级本科生，本科期间**荣获国家奖学金、国家励志奖学金（三次），学习优秀奖学金等多项奖学金**。
 - 联系方式及个人主页请参见左侧信息栏。
 - **负责本网站的重构、维护与更新**，欢迎大家提交PR，共同完善网站。
+
+
+
+# 主要已发表或接收论文
+
+- Zhifei Li† <strong><font color="#DC3522">Chuyuan Xie</font></strong>†, Jinfeng Wu†,  Lu Wang†, Yuebing Li† and Yan Zhang†.  Noisy or structural? Knowledge graph-based dual-view diffusion for recommendation systems. In *Knowledge-Based Systems (KBS)*. 2026. (CCF-C, SCI一区)
+
+- Yue Jian†, Miao Zhang, Ziyue Qin, <strong><font color="#DC3522">Chuyuan Xie</font></strong>†, Kui Xiao†, Yan Zhang†, Zhifei Li†.  Adaptive Modality Interaction Transformer for Multimodal Knowledge Graph Completion. In *ACM Transactions on Knowledge Discovery from Data (TKDD)*. 2025. ( CCF-B, SCI一区)

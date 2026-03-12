@@ -3,7 +3,7 @@ name: 丁嘉玲
 image: 
 role: 2025
 description: 
-affiliation: 湖北大学
+affiliation: 
 aliases:
   - Jialing Ding
 links:

@@ -3,7 +3,7 @@ name: 陈丽帆
 image: 
 role: 2024
 description: 硕士国奖
-affiliation: 湖北大学
+affiliation: 
 aliases:
   - Lifan Chen
 links:

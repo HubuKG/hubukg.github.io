@@ -3,7 +3,7 @@ name: 王怡然
 image: 
 role: 2024
 description: 
-affiliation: 湖北大学
+affiliation: 
 aliases:
   - Yiran Wang
 links:
