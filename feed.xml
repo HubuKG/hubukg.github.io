@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hubukg.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hubukg.github.io/" rel="alternate" type="text/html" /><updated>2026-03-12T07:08:20+00:00</updated><id>https://hubukg.github.io/feed.xml</id><title type="html">湖北大学教育智能计算与应用团队</title><subtitle>湖北大学教育智能计算与应用团队官方网站</subtitle><entry><title type="html">三篇文章被人工智能顶级会议AAAI接收！</title><link href="https://hubukg.github.io/2025/11/18/AAAI.html" rel="alternate" type="text/html" title="三篇文章被人工智能顶级会议AAAI接收！" /><published>2025-11-18T00:00:00+00:00</published><updated>2025-11-18T00:00:00+00:00</updated><id>https://hubukg.github.io/2025/11/18/AAAI</id><content type="html" xml:base="https://hubukg.github.io/2025/11/18/AAAI.html"><![CDATA[<p>近日，人工智能领域顶级国际会议AAAI 2026（The 40th Annual AAAI Conference on Artificial Intelligence）公布录用结果，李志飞副教授指导的研究生团队共有3篇研究论文被录用，涉及视觉知识问答、多模态知识对齐、深度知识追踪等研究方向，实现团队在AAAI国际顶会论文的历史性突破。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hubukg.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hubukg.github.io/" rel="alternate" type="text/html" /><updated>2026-03-12T07:14:22+00:00</updated><id>https://hubukg.github.io/feed.xml</id><title type="html">湖北大学教育智能计算与应用团队</title><subtitle>湖北大学教育智能计算与应用团队官方网站</subtitle><entry><title type="html">三篇文章被人工智能顶级会议AAAI接收！</title><link href="https://hubukg.github.io/2025/11/18/AAAI.html" rel="alternate" type="text/html" title="三篇文章被人工智能顶级会议AAAI接收！" /><published>2025-11-18T00:00:00+00:00</published><updated>2025-11-18T00:00:00+00:00</updated><id>https://hubukg.github.io/2025/11/18/AAAI</id><content type="html" xml:base="https://hubukg.github.io/2025/11/18/AAAI.html"><![CDATA[<p>近日，人工智能领域顶级国际会议AAAI 2026（The 40th Annual AAAI Conference on Artificial Intelligence）公布录用结果，李志飞副教授指导的研究生团队共有3篇研究论文被录用，涉及视觉知识问答、多模态知识对齐、深度知识追踪等研究方向，实现团队在AAAI国际顶会论文的历史性突破。</p>
 
 <div align="center">
   <img src="/images/posts/2025-11-18-AAAI/image_1.png" alt="award photo" style="max-width: 480px; width: 100%; height: auto;" />
@@ -36,17 +36,17 @@
 <div align="center">
   <img src="/images/posts/2025-10-31-jiebangguashuai/image_1.png" alt="award photo" style="max-width: 480px; width: 100%; height: auto;" />
 </div>
-<p>**项目名称 **：《基于知识图谱与深度推理大模型的自适应学习路径推荐》</p>
+<p><strong>项目名称</strong>：《基于知识图谱与深度推理大模型的自适应学习路径推荐》</p>
 
-<p>**榜题名称 **：基于深度推理大模型的自适应学习路径规划研究</p>
+<p><strong>榜题名称</strong>：基于深度推理大模型的自适应学习路径规划研究</p>
 
-<p>**发榜单位 **：科大讯飞股份有限公司</p>
+<p><strong>发榜单位</strong>：科大讯飞股份有限公司</p>
 
-<p>**指导老师 **：李志飞</p>
+<p><strong>指导老师</strong>：李志飞</p>
 
-<p>**团队成员 **：马洪建（队长）、夏玉婧、周东升、胡婧、秦紫玥、王怡然、石科</p>
+<p><strong>团队成员</strong>：马洪建（队长）、夏玉婧、周东升、胡婧、秦紫玥、王怡然、石科</p>
 
-<p>**项目介绍 **：项目面向教育领域个性化学习路径推荐的迫切需求，以 “多智能体协同框架” 为核心，通过自主研发知识图谱检索与推理、逆向还原与对齐、自我修正与个性规划三大智能体模块，构建了集需求精准匹配、路径动态优化、学习效果可追溯于一体的个性化学习决策系统，为不同身份、基础的学习者提供适配其认知规律的定制化学习路径，推动教育数字化转型中个性化学习的技术创新与应用落地。</p>
+<p><strong>项目介绍</strong>：项目面向教育领域个性化学习路径推荐的迫切需求，以 “多智能体协同框架” 为核心，通过自主研发知识图谱检索与推理、逆向还原与对齐、自我修正与个性规划三大智能体模块，构建了集需求精准匹配、路径动态优化、学习效果可追溯于一体的个性化学习决策系统，为不同身份、基础的学习者提供适配其认知规律的定制化学习路径，推动教育数字化转型中个性化学习的技术创新与应用落地。</p>
 
 <div align="center">
   <img src="/images/posts/2025-10-31-jiebangguashuai/image_2.png" alt="award photo" style="max-width: 480px; width: 100%; height: auto;" />
