@@ -1,0 +1,30 @@
+---
+---
+
+.doc-layout {
+  display: flex;
+  gap: 40px;
+}
+
+.doc-toc {
+  width: 260px;
+  position: sticky;
+  top: 100px;
+  height: calc(100vh - 100px);
+  overflow-y: auto;
+  font-size: 14px;
+}
+
+.doc-toc ul {
+  list-style: none;
+  padding-left: 10px;
+}
+
+.doc-toc li {
+  margin: 6px 0;
+}
+
+.doc-content {
+  flex: 1;
+  max-width: 900px;
+}
