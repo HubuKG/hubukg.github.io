@@ -8,8 +8,8 @@ aliases:
   - Chuyuan Xie
 links:
   home-page: www.xcyhx.art
-  orcid: https://orcid.org/0009-0000-4222-6399
-  email: https://orcid.org/0009-0000-4222-6399
+  orcid: 0009-0000-4222-6399
+  email: 202421116012511@stu.hubu.edu.cn
   github: https://github.com/JayILoveYou
 
 ---
@@ -23,9 +23,7 @@ links:
 - **负责本网站的重构、维护与更新**，欢迎大家提交PR，共同完善网站。
 
 
-
 # 主要已发表论文
-
 
 - Zhifei Li† <strong><font color="#DC3522">Chuyuan Xie</font></strong>†, Jinfeng Wu†,  Lu Wang†, Yuebing Li† and Yan Zhang†.  Noisy or structural? Knowledge graph-based dual-view diffusion for recommendation systems. In *Knowledge-Based Systems (KBS)*. 2026. (CCF-C, SCI一区)
 
