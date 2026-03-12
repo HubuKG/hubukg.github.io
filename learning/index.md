@@ -3,7 +3,7 @@ title: 学习路线
 nav:
   order: 5
   tooltip: Team Learning Path
-has_toc: true
+layout: doc
 ---
 
 # {% include icon.html icon="fa-solid fa-user-graduate" %}湖北大学教育智能计算与应用团队科研培训路线
