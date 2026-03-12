@@ -7,9 +7,9 @@ affiliation:
 aliases:
   - Chuyuan Xie
 links:
-  home-page: www.xcyhx.art
+  home-page: http://www.xcyhx.art
   orcid: 0009-0000-4222-6399
-  email: 202421116012511@stu.hubu.edu.cn
+  email: mailto:202421116012511@stu.hubu.edu.cn
   github: https://github.com/JayILoveYou
 
 ---
