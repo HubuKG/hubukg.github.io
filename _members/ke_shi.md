@@ -1,7 +1,7 @@
 ---
 name: 石科
 image: 
-role: undergrad
+role: undergraduate
 description: 保研电子科技大学直博
 affiliation: 
 aliases:

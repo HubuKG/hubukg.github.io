@@ -1,7 +1,7 @@
 ---
 name: 李志飞
 image: images/members/pi/lizhifei.jpg
-role: principal-investigator
+role: charge
 description: 团队主任
 affiliation: 
 aliases:

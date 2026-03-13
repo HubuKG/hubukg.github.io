@@ -1,5 +1,5 @@
 ---
-title: 团队动态
+title: 最新动态
 nav:
   order: 2
   tooltip: News of the center

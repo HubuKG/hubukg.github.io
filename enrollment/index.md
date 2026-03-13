@@ -1,5 +1,5 @@
 ---
-title: 团队招生
+title: 招生信息
 nav:
   order: 4
   tooltip: Student Enrollment
