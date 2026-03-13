@@ -33,7 +33,7 @@ nav:
 &emsp;&emsp;知识图谱推理（Knowledge Graph Reasoning，知识图谱嵌入、知识图谱补全、知识表示学习）是一种关键的人工智能技术，旨在通过机器学习和数据分析方法，如图1所示，从已有的知识图谱中预测和填补缺失的实体、关系或属性信息，以构建更完整、准确的知识图谱。知识图谱是一种以图形结构表示的知识库，其中实体、关系和属性之间的关系被清晰地表示出来。然而，真实世界的知识非常庞杂，不可能完全收录在一个知识图谱中，这就需要知识图谱补全来弥补不足。
 
 <div align="center">
-  <img src="/images/learning/image_1.png" alt="award photo" style="max-width: 480px; width: 160%; height: auto;">
+  <img src="/images/learning/image_1.png" alt="award photo" style="max-width: 720px; width: 100%; height: auto;">
    <p style="text-align:center; margin-top:5px;">图1 知识图谱推理示意图 </p>
 </div>
 
@@ -71,7 +71,7 @@ nav:
 &emsp;&emsp;互联网上异构数据的增加导致许多独立知识图谱的构建，融合多源知识图谱可以提供更全面和准确的知识表示，支持更复杂和智能的推理。知识图谱融合是指将来自不同来源的多个知识图谱合并为一个统一知识图谱的过程。作为知识图谱融合的关键任务之一，实体对齐（Entity Alignment）旨在识别源自两个或多个知识图谱的实体是否指向真实世界中的同一对象，如果找到多个实体表征同一对象，需要在这些实体之间构建对齐关系，同时对实体包含的信息进行融合和聚集。
 
 <div align="center">
-  <img src="/images/learning/image_2.png" alt="award photo" style="max-width: 480px; width: 160%; height: auto;">
+  <img src="/images/learning/image_2.png" alt="award photo" style="max-width: 720px; width: 100%; height: auto;">
    <p style="text-align:center; margin-top:5px;">图2 多模态实体对齐示意图 </p>
 </div>
 
@@ -99,7 +99,7 @@ nav:
 &emsp;&emsp;多模态推荐系统（Multimodal Recommender Systems）是一种利用多种不同类型的数据（或称为模态）来提供个性化推荐的技术。传统的推荐系统主要基于用户的历史行为或喜好来进行推荐，但这种方法可能无法全面准确地理解用户的兴趣。如图3所示，多模态推荐系统通过融合多种数据类型，如文本、图像、音频、视频等，能够更全面地捕捉用户的兴趣和需求，从而提供更精准的推荐。
 
 <div align="center">
-  <img src="/images/learning/image_3.png" alt="award photo" style="max-width: 480px; width: 160%; height: auto;">
+  <img src="/images/learning/image_3.png" alt="award photo" style="max-width: 720px; width: 100%; height: auto;">
    <p style="text-align:center; margin-top:5px;">图3 多模态推荐系统l流程图 </p>
 </div>
 
@@ -139,7 +139,7 @@ nav:
 &emsp;&emsp;图4所示，Visual/Video Question Answering（VQA）是一种新兴的人工智能任务，旨在使计算机能够理解图像/视频并回答与图像相关的自然语言问题。它融合了计算机视觉和自然语言处理两个领域，要求系统能够同时处理图像和文本，以实现多模态信息的联合推理和交互。VQA的目标是提高计算机在图像和文本之间的跨模态理解能力，使其能够实现更深入的图像理解和更自然的语言生成。在VQA中，任务的主要过程可以概括如下：
 
 <div align="center">
-  <img src="/images/learning/image_4.png" alt="award photo" style="max-width: 480px; width: 160%; height: auto;">
+  <img src="/images/learning/image_4.png" alt="award photo" style="max-width: 720px; width: 100%; height: auto;">
    <p style="text-align:center; margin-top:5px;">图4 视觉知识问答任务分类 </p>
 </div>
 
@@ -182,7 +182,7 @@ nav:
 &emsp;&emsp;知识追踪的核心思想是基于学生的学习数据和行为，建立模型来预测学生在特定知识领域的学习进度和表现。如图5所示，包括了学生在做题、阅读、互动等学习活动中产生的数据，如答题结果、学习时间、错误类型等。通过对这些数据的分析，知识追踪模型可以洞察学生在不同知识点上的理解情况，以及他们在学习过程中的困难和挑战。
 
 <div align="center">
-  <img src="/images/learning/image_5.png" alt="award photo" style="max-width: 480px; width: 160%; height: auto;">
+  <img src="/images/learning/image_5.png" alt="award photo" style="max-width: 720px; width: 100%; height: auto;">
    <p style="text-align:center; margin-top:5px;">图5 知识追踪示意图 </p>
 </div>
 
@@ -212,7 +212,7 @@ nav:
 &emsp;&emsp;大语言模型（Large Language Models，LLMs）在理解和生成近乎人类交流的方式上展现了出色的能力，然而即使是最先进最优秀的大语言模型也会出现错误以及偏见以及过时信息甚至有毒有害信息，要修正这些有毒信息，往往需要频繁地对大模型进行修正，而为了调整就重新训练大模型（用清洗过的数据重新进行预训练）是昂贵和不可持续的，如果进行微调（利用微调技术向LLMs注入新知识）则可能会导致模型对想要调整的少量数据产生过拟合甚至对其他知识产生灾难性遗忘，且微调的花费也是昂贵的。因此近年针对LLMs的知识编辑技术应运而生，如图6所示，其目的是在特定领域高效修改模型行为的同时，保持模型在各类输入下的整体性能。在知识编辑等方法中可以大
 
 <div align="center">
-  <img src="/images/learning/image_6.png" alt="award photo" style="max-width: 480px; width: 160%; height: auto;">
+  <img src="/images/learning/image_6.png" alt="award photo" style="max-width: 720px; width: 100%; height: auto;">
    <p style="text-align:center; margin-top:5px;">图6 知识编辑示意图 </p>
 </div>
 
