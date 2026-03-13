@@ -103,6 +103,23 @@
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/TMM.2026.3673527
+  title: Structurally Refined Graph Transformer for Multimodal Recommendation
+  authors:
+  - Ke Shi
+  - Yan Zhang
+  - Miao Zhang
+  - Lifan Chen
+  - Jiali Yi
+  - Kui Xiao
+  - Xiaoju Hou
+  - Zhifei Li
+  publisher: IEEE Transactions on Multimedia
+  date: '2026-01-01'
+  link: https://doi.org/hbsgwz
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3760786
   title: Adaptive Modality Interaction Transformer for Multimodal Knowledge Graph
     Completion
