@@ -26,7 +26,7 @@
 
 {%
   include feature.html
-  image="images/covers/APKGC.png"
+  image="images/covers/directions.png"
   link="research"
   title="研究成果"
   text=text
@@ -36,26 +36,11 @@
 
 团队学生在SCI一区/二区、CCF A/B类期刊和会议发表论文20余篇（其中本科生发表SCI一区论文5篇），获挑战杯“揭榜挂帅”擂台赛等大学生学科竞赛全国一等奖4次、硕士研究生国家奖学金3人次。欢迎计算机、教育技术等相关专业，具备扎实的数学、英语（CET-6）基础和编程能力，对知识图谱、推荐系统、智能问答、知识追踪等科研方向感兴趣的学生与本人联系，请附个人简历。
 
-{%
-  include button.html
-  link="enrollment"
-  text="查看团队招生"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+{% include button.html link="enrollment" text="查看团队招生" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/hubu.jpg"
-  link="enrollment"
-  title="团队招生"
-  flip=true
-  style="bare"
-  text=text
-%}
+{% include feature.html image="images/hubu.jpg" link="enrollment" title="团队招生" flip=true style="bare" text=text %}
 
 {% capture text %}
 
