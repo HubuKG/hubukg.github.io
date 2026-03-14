@@ -26,7 +26,7 @@
 
 {%
   include feature.html
-  image="images/covers/APKGC.png"
+  image="images/covers/directions.png"
   link="research"
   title="研究成果"
   text=text
