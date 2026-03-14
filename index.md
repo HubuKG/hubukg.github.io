@@ -38,7 +38,7 @@
 
 {%
   include button.html
-  link="projects"
+  link="enrollment"
   text="查看团队招生"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -50,7 +50,7 @@
 {%
   include feature.html
   image="images/hubu.jpg"
-  link="projects"
+  link="enrollment"
   title="团队招生"
   flip=true
   style="bare"
