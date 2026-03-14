@@ -1,6 +1,6 @@
 ---
 name: 马洪建
-image: images/members/pi/HongjianMa.jpg
+image: [images/members/pi/HongjianMa.jpg]
 role: undergraduate
 description: 
 affiliation: 
