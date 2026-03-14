@@ -2,7 +2,7 @@
 name: 石科
 image: 
 role: undergraduate
-description: 电子科技大学直博
+description: 电子科大直博
 affiliation: 
 aliases:
   - Ke Shi
