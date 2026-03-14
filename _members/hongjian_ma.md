@@ -1,8 +1,8 @@
 ---
-name: 石科
+name: 马洪建
 image: 
 role: undergraduate
-description: 电子科技大学直博
+description: 
 affiliation: 
 aliases:
   - Ke Shi
