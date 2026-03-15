@@ -2,7 +2,7 @@
 title: 招生信息
 nav:
   order: 4
-  tooltip: Student Enrollment
+  tooltip: Recruitment
 ---
 
 # {% include icon.html icon="fa-solid fa-user-graduate" %}湖北大学教育智能计算与应用团队学生招生信息

@@ -2,7 +2,7 @@
 title: 研究成果
 nav:
   order: 3
-  tooltip: Published works
+  tooltip: Publications
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}研究成果

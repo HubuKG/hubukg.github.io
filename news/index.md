@@ -2,7 +2,7 @@
 title: 最新动态
 nav:
   order: 2
-  tooltip: News of the center
+  tooltip: News
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}团队动态

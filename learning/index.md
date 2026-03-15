@@ -2,7 +2,7 @@
 title: 研究方向
 nav:
   order: 5
-  tooltip: Team Learning Path
+  tooltip: Directions
 ---
 
 # {% include icon.html icon="fa-solid fa-user-graduate" %}湖北大学教育智能计算与应用团队科研方向
@@ -239,7 +239,6 @@ nav:
 <a href="https://github.com/zjunlp/EasyEdit">
       https://github.com/zjunlp/EasyEdit
 </a>
-
 
 
 

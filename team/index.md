@@ -2,7 +2,7 @@
 title: 团队成员
 nav:
   order: 3
-  tooltip: About our team
+  tooltip: Teams
 ---
 
 # <!--{% include icon.html icon="fa-solid fa-users" %}人才队伍-->

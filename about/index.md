@@ -2,7 +2,7 @@
 title: 团队概况
 nav:
   order: 0
-  tooltip: Overview of the center
+  tooltip: Overview
 
 ---
 
