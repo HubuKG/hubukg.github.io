@@ -2,7 +2,7 @@
 name: 马洪建
 image: images/members/researchers/HongjianMa.jpg
 role: undergraduate
-description: 没有李老师就没有今天的我，想成功的bro直接冲李老师课题组！
+description: 
 affiliation: 
 aliases:
   - Hongjian Ma
