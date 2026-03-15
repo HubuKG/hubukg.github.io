@@ -8,7 +8,7 @@ aliases:
   - Hongjian Ma
 links:
   home-page: 
-  orcid: [0009-0007-8243-4580](https://orcid.org/0009-0007-8243-4580)
+  orcid: https://orcid.org/0009-0007-8243-4580
   email: mhj@stu.hubu.edu.cn
 
 ---
