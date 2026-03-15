@@ -2,13 +2,13 @@
 name: 马洪建
 image: images/members/researchers/HongjianMa.jpg
 role: undergraduate
-description: 
+description: 没有李老师就没有今天的我，想成功的bro直接冲李老师课题组！
 affiliation: 
 aliases:
   - Hongjian Ma
 links:
-  home-page: 还没制作QAQ
-  orcid: 0009-0007-8243-4580
+  home-page: 
+  orcid: [0009-0007-8243-4580](https://orcid.org/0009-0007-8243-4580)
   email: mhj@stu.hubu.edu.cn
 
 ---
