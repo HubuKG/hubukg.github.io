@@ -67,6 +67,22 @@
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.inffus.2026.104299
+  title: 'Let Two Graphs Talk: Self-Supervised Dual-Graph Reconstruction for Multimodal
+    Recommendation'
+  authors:
+  - Hongjian Ma
+  - Yan Zhang
+  - Yahui Zhou
+  - Bing Yang
+  - Dunhui Yu
+  - Zhifei Li
+  publisher: Information Fusion
+  date: '2026-03-01'
+  link: https://doi.org/hbsn4n
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3796713
   title: 'HiMod: Hierarchical Modeling with Graph Perturbation for Enhanced Inductive
     Knowledge Graph Reasoning'
