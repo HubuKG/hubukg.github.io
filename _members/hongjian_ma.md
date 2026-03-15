@@ -1,6 +1,6 @@
 ---
 name: 马洪建
-image: images/members/pi/HongjianMa.jpg
+image: images/members/researchers/HongjianMa.jpg
 role: undergraduate
 description: 
 affiliation: 
@@ -15,7 +15,7 @@ links:
 
 ## 基本信息
 
-- 湖北大学计算机学院2023级计算机科学与技术专业本科生。
+湖北大学计算机学院2023级计算机科学与技术专业本科生。
 
 
 ## 主要成果
