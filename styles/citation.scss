@@ -18,6 +18,7 @@ $wrap: 800px;
 }
 
 .citation-image {
+  display: none;
   position: relative;
   width: $thumb-size;
   flex-shrink: 0;

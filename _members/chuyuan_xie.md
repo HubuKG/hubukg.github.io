@@ -1,6 +1,6 @@
 ---
 name: 谢楚源
-image: 
+image: images/members/researchers/chuyuanxie.jpg
 role: 2024
 description: 
 affiliation: 

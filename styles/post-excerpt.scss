@@ -20,6 +20,7 @@ $wrap: 800px;
 .post-excerpt-image {
   position: relative;
   width: $thumb-size;
+  heigth: $thumb-size;
   flex-shrink: 0;
   // box-shadow: var(--shadow);
 }
@@ -29,7 +30,8 @@ $wrap: 800px;
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contail;
+  display: block;
 }
 
 .post-excerpt-text {
