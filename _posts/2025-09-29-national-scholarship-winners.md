@@ -1,7 +1,7 @@
 ---
 title: 团队4位同学林家庆、陈丽帆、罗翔宇、裘枫荣获2025年度研究生国家奖学金
 image: images/posts/cover.webp
-tags: 新闻
+tags: 奖学金
 last_modified_at: ""
 ---
 
