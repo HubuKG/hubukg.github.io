@@ -1,6 +1,6 @@
 ---
 name: 王怡然
-image: 
+image: images/members/researchers/yiran_wang.jpg
 role: 2024
 description: 
 affiliation: 
