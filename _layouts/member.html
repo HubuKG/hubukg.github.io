@@ -15,7 +15,7 @@ layout: default
 
 {% include portrait.html lookup=page.slug %}
 
-<div style="text-align: left;">
+<div style="display: inline-block; text-align: left;">
   {% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
