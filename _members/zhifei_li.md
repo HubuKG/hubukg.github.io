@@ -9,7 +9,9 @@ aliases:
 links:
   home-page: https://zhifei1993.github.io/
   email: zhifei1993hubu.edu.cn
+  orcid: 0000-0003-0443-0094
   google-scholar: aC2qAuEAAAAJ
+  github: https://github.com/HubuKG
 ---
 
 ## 基本信息
