@@ -16,9 +16,19 @@ layout: default
 
 {% endcapture %}
 
-{% include float.html content=floatcontent %}
-<div style="margin-left: 240px;">
-{{ content }}
+<!-- 外层用 flex 做左右布局，手机自动换行 -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <!-- 左侧头像栏：电脑固定宽度，手机100% -->
+  <div style="flex: 0 0 220px; max-width: 100%;">
+    {% include float.html content=floatcontent %}
+  </div>
+
+  <!-- 右侧内容栏：自动占满剩余宽度 -->
+  <div style="flex: 1; min-width: 280px;">
+    {{ content }}
+  </div>
+
 </div>
 
 {% assign aliases = page.aliases
