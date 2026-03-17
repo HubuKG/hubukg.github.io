@@ -27,4 +27,4 @@ links:
 
 1. Zhifei Li, <strong><font color="#DC3522">Chuyuan Xie</font></strong>, Jinfeng Wu,  Lu Wang, Yuebing Li and Yan Zhang.  Noisy or structural? Knowledge graph-based dual-view diffusion for recommendation systems[J]. *Knowledge-Based Systems*, 2026, 339: 115607. (SCI一区, CCF-C)
 
-2. Yue Jian, Miao Zhang, Ziyue Qin, <strong><font color="#DC3522">Chuyuan Xie</font></strong>, Kui Xiao, Yan Zhang, Zhifei Li.  Adaptive Modality Interaction Transformer for Multimodal Knowledge Graph Completion[J]. *ACM Transactions on Knowledge Discovery from Data*, 2025, 19(8): 1–24. ( SCI二区, CCF-B)
+2. Yue Jian, Miao Zhang, Ziyue Qin, <strong><font color="#DC3522">Chuyuan Xie</font></strong>, Kui Xiao, Yan Zhang, Zhifei Li*.  Adaptive Modality Interaction Transformer for Multimodal Knowledge Graph Completion[J]. *ACM Transactions on Knowledge Discovery from Data*, 2025, 19(8): 1–24. ( SCI二区, CCF-B)

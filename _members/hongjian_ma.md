@@ -15,7 +15,7 @@ links:
 
 ## 基本信息
 
-湖北大学计算机学院2023级计算机科学与技术专业本科生。
+湖北大学计算机学院2023级计算机科学与技术专业本科生，主要研究方向为多模态推荐系统。
 
 ## 科研论文
 1. **Ma H**, Zhang Y, Zhou Y, et al, Li Z*. Let Two Graphs Talk: Self-Supervised Dual-Graph Reconstruction for Multimodal Recommendation[J]. Information Fusion, 2026, 104299. (SCI一区)
@@ -33,5 +33,6 @@ links:
 10. 2023-2024学年获科研创新奖学金
 11. 2024年获年度优秀共青团员
 
-## 想说的话
+## 个人寄语
+
 或许此刻的你正埋头赶路，在无人问津的角落里默默耕耘，汗水浸湿了衣衫，疲惫爬上了肩头，但这些都不是放弃的理由。每一次全力以赴的付出，每一回咬牙挺过的难关，都是在为明天的绽放积蓄力量。
