@@ -13,15 +13,20 @@ layout: default
 
 {% capture floatcontent %}
 
+<!-- 必须有这一层！整体居中！ -->
+<div style="text-align: center;">
+
 {% include portrait.html lookup=page.slug %}
 
-
+<!-- 链接在头像下面，整体居中、内部左对齐 -->
+<div style="display: inline-block; text-align: left; margin-top: 10px;">
   {% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
     {% include button.html type=key link=value style="bare" %}<br>
   {% endfor %}
-
+</div>
+</div>
 
 {% endcapture %}
 
@@ -29,6 +34,8 @@ layout: default
 
 <div class="member-content">
   {{ content }}
+</div>
+
 </div>
 
 <div style="clear:both;"></div>
