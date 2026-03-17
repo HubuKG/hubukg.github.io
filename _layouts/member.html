@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<style>
+/* 电脑端右边缩进，手机不缩进 */
+@media (min-width: 768px) {
+  .member-content {
+    margin-left: 240px;
+  }
+}
+</style>
+
 {% capture floatcontent %}
 
 {% include portrait.html lookup=page.slug %}
@@ -16,20 +25,13 @@ layout: default
 
 {% endcapture %}
 
-<!-- 外层用 flex 做左右布局，手机自动换行 -->
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+{% include float.html content=floatcontent %}
 
-  <!-- 左侧头像栏：电脑固定宽度，手机100% -->
-  <div style="flex: 0 0 220px; max-width: 100%;">
-    {% include float.html content=floatcontent %}
-  </div>
-
-  <!-- 右侧内容栏：自动占满剩余宽度 -->
-  <div style="flex: 1; min-width: 280px;">
-    {{ content }}
-  </div>
-
+<div class="member-content">
+  {{ content }}
 </div>
+
+<div style="clear:both;"></div>
 
 {% assign aliases = page.aliases
   | default: page.name
