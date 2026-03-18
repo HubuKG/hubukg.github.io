@@ -1,6 +1,6 @@
 ---
 name: 徐传芳
-image: 
+image:  images/members/researchers/chuanfang_xu.jpg
 role: 2025
 description: 
 affiliation: 

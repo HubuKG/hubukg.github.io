@@ -1,6 +1,6 @@
 ---
 name: 丁嘉玲
-image: 
+image:  images/members/researchers/jialing_ding.jpg
 role: 2025
 description: 
 affiliation: 
