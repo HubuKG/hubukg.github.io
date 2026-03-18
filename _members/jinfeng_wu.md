@@ -1,6 +1,6 @@
 ---
 name: 吴锦锋
-image: 
+image:  images/members/researchers/jinfeng_wu.jpg
 role: 2025
 description: 
 affiliation: 
