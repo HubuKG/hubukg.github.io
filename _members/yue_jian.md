@@ -2,7 +2,7 @@
 name: 蹇越
 image: images/members/researchers/jianyue.jpg
 role: 2022
-description: 硕士国奖，
+description: 硕士国奖
 affiliation: 武汉理工读博
 aliases:
   - Yue Jian
