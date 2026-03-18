@@ -15,12 +15,10 @@ links:
 
 ## 基本信息
 
-##### 教育背景：
-
 - 硕士（2024-今）：湖北大学计算机学院2024级计算机技术专业，师从[李志飞](https://zhifei1993.github.io/)老师。主要研究方向是**知识追踪（Knowledge Tracing, KT）**，旨在通过对学生历史学习交互序列的建模，预测其在未来学习任务中的表现。
 - 学士（2020-2024）：文华学院计算机与信息技术学院2020级软件工程专业。
 
-##### 荣誉奖项：
+## 荣誉奖项：
 
 - 湖北大学**二等奖学金**、湖北大学**三等奖学金**
 - 本科期间荣获国家励志奖学金，文华学院二等奖学金（**三次**）
@@ -30,5 +28,5 @@ links:
 
 ## 主要成果
 
-- Zhifei Li, Lifan Chen, <strong><font color="#DC3522">Jiali Yi</font></strong>, Xiaoju Hou, Yue Zhao, Wenxin Huang, Miao Zhang, Kui Xiao, Bing Yang. KeenKT: Knowledge Mastery-State Disambiguation for Knowledge Tracing[C]. Proceedings of the AAAI Conference on Artificial Intelligence, 2026. (CCF A, Accepted)
-- Ke Shi, Yan Zhang, Miao Zhang, Lifan Chen, <strong><font color="#DC3522">Jiali Yi</font></strong>, Kui Xiao, Xiaoju Hou, Zhifei Li.  Structurally Refined Graph Transformer for Multimodal Recommendation[J]. *IEEE Transactions on Multimedia*, 2026.  (SCI 一区, CCF A)
+1. Zhifei Li, Lifan Chen, <strong><font color="#DC3522">Jiali Yi</font></strong>, Xiaoju Hou, Yue Zhao, Wenxin Huang, Miao Zhang, Kui Xiao, Bing Yang. KeenKT: Knowledge Mastery-State Disambiguation for Knowledge Tracing[C]. Proceedings of the AAAI Conference on Artificial Intelligence, 2026. (CCF A, Accepted)
+2. Ke Shi, Yan Zhang, Miao Zhang, Lifan Chen, <strong><font color="#DC3522">Jiali Yi</font></strong>, Kui Xiao, Xiaoju Hou, Zhifei Li*.  Structurally Refined Graph Transformer for Multimodal Recommendation[J]. *IEEE Transactions on Multimedia*, 2026.  (SCI 一区, CCF A)

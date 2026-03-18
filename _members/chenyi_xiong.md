@@ -19,3 +19,5 @@ links:
 
 
 ## 主要成果
+
+1. Xiong C, Hu J, Zhao Y, et al, Li Z*. HiMod: Hierarchical Modeling with Graph Perturbation for Enhanced Inductive Knowledge Graph Reasoning[J]. ACM Transactions on Knowledge Discovery from Data, 2026. (CCF B)
