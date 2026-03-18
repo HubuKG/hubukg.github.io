@@ -1,6 +1,6 @@
 ---
 name: 熊晨伊
-image: 
+image: images/members/researchers/xiongcy.jpg
 role: 2023
 description: 硕博连读
 affiliation: 

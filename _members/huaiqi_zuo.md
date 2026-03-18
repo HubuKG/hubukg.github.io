@@ -1,6 +1,6 @@
 ---
 name: 左怀琪
-image: 
+image: images/members/researchers/zuohq.jpg
 role: 2023
 description: 
 affiliation: 

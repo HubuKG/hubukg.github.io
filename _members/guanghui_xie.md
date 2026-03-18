@@ -1,9 +1,9 @@
 ---
 name: 谢光辉
-image: 
+image: images/members/researchers/xiegh.jpg
 role: 2023
 description: 
-affiliation: 
+affiliation: 术锐（上海）科技
 aliases:
   - Guanghui Xie
 links:

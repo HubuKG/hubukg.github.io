@@ -3,7 +3,7 @@ name: 裘枫
 image: images/members/researchers/qiufeng.jpg
 role: 2023
 description: 硕士国奖
-affiliation: 迅雷
+affiliation: 网心科技
 aliases:
   - Feng Qiu
 links:
@@ -21,3 +21,4 @@ links:
 ## 主要成果
 
 1. Li Z, **Qiu F**, Wang Y, et al. Integrating Object Interaction Self-Attention and GAN-Based Debiasing for Visual Question Answering[J]. IEEE Transactions on Multimedia, 2026. (CCF A)
+
