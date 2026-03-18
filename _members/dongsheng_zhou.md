@@ -19,7 +19,7 @@ links:
 
 ## 科研论文
 
-1. **Zhou D**, Hou X, et al, Li Z\*. Corrective Aggregation and Preference-Aware for Multimodal Recommendation Systems[J]. *Expert Systems With Applications*, 2026, 317: 131914. (SCI一区)
+1. **Zhou D**, Hou X, et al, Li Z\*. Corrective Aggregation and Preference-Aware for Multimodal Recommendation Systems[J]. Expert Systems With Applications, 2026, 317: 131914. (SCI一区)
 
 ## 荣誉奖励
 
