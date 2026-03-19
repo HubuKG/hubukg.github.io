@@ -2,7 +2,7 @@
 name: 左怀琪
 image: images/members/researchers/zuohq.jpg
 role: 2023
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Huaiqi Zuo

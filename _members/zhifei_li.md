@@ -2,7 +2,7 @@
 name: 李志飞
 image: images/members/pi/lizhifei.jpg
 role: charge
-description: 团队负责人
+description: 
 affiliation: 
 aliases:
   - Zhifei Li

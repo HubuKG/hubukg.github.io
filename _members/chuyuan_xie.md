@@ -2,7 +2,7 @@
 name: 谢楚源
 image: images/members/researchers/chuyuanxie.jpg
 role: 2024
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Chuyuan Xie

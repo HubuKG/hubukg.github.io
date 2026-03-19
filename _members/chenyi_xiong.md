@@ -2,8 +2,8 @@
 name: 熊晨伊
 image: images/members/researchers/xiongcy.jpg
 role: 2023
-description: 硕博连读
-affiliation: 
+description: 硕士
+affiliation: 硕博连读
 aliases:
   - Chenyi Xiong
 links:

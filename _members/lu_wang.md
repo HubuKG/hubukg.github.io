@@ -2,7 +2,7 @@
 name: 王路
 image:  images/members/researchers/lu_wang.jpg
 role: 2025
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Lu Wang

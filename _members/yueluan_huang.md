@@ -2,7 +2,7 @@
 name: 黄越鸾
 image:  images/members/researchers/yueluan_huang.jpg
 role: 2025
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Yueluan Huang

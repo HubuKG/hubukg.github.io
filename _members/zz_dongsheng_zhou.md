@@ -1,8 +1,8 @@
 ---
 name: 周东升
 image: images/members/researchers/zhouds.jpg
-role: undergraduate
-description: 
+role: 2023
+description: 本科
 affiliation: 
 aliases:
   - Dongsheng Zhou

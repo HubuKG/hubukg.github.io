@@ -2,7 +2,7 @@
 name: 裘枫
 image: images/members/researchers/qiufeng.jpg
 role: 2023
-description: 硕士国奖
+description: 硕士，国家奖学金
 affiliation: 网心科技
 aliases:
   - Feng Qiu

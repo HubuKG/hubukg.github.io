@@ -2,7 +2,7 @@
 name: 易佳丽
 image: images/members/researchers/jiali_yi.png
 role: 2024
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Jiali Yi

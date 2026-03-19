@@ -2,7 +2,7 @@
 name: 吴锦锋
 image:  images/members/researchers/jinfeng_wu.jpg
 role: 2025
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Jingfeng Wu
