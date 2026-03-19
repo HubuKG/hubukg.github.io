@@ -2,7 +2,7 @@
 ---
 
 $thumb-size: 150px;
-$thumb-size2: 300px;
+$thumb-size2: 400px;
 $wrap: 800px;
 
 .post-excerpt-container {
@@ -21,7 +21,7 @@ $wrap: 800px;
 .post-excerpt-image {
   position: relative;
   width: $thumb-size2;
-  heigth: $thumb-size;
+  height: $thumb-size;
   flex-shrink: 0;
   // box-shadow: var(--shadow);
 }
@@ -31,7 +31,7 @@ $wrap: 800px;
   inset: 0;
   width: 100%;
   height: 100%;
-  object-fit: contail;
+  object-fit: contain;
   display: block;
 }
 
