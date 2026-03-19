@@ -2,6 +2,7 @@
 ---
 
 $thumb-size: 200px;
+$thumb-size2: 300px;
 $wrap: 800px;
 
 .post-excerpt-container {
@@ -19,7 +20,7 @@ $wrap: 800px;
 
 .post-excerpt-image {
   position: relative;
-  width: $thumb-size;
+  width: $thumb-size2;
   heigth: $thumb-size;
   flex-shrink: 0;
   // box-shadow: var(--shadow);
