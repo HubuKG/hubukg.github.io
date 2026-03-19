@@ -34,11 +34,14 @@ $one: 500px;
   }
 }
 
-/* 关键：只有 2 个子元素时，居中布局，不再均分3列 */
+/* 恰好2张图：居中 + 保持原来大小 */
 .grid:has(*:nth-child(2):last-child) {
-  grid-template-columns: auto auto !important;
-  justify-content: center !important;
+  grid-template-columns: 1fr 1fr !important;
+  max-width: calc(2 * (33vw - 40px));
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
+
 
 .grid[data-style="square"] {
   align-items: center;
