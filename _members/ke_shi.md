@@ -1,9 +1,9 @@
 ---
 name: 石科
 image: images/members/researchers/shike.jpg
-role: undergraduate
-description: 电子科大直博
-affiliation: 
+role: 2022
+description: 本科
+affiliation: 电子科大直博
 aliases:
   - Ke Shi
 links:

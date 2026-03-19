@@ -2,7 +2,7 @@
 name: 徐传芳
 image:  images/members/researchers/chuanfang_xu.jpg
 role: 2025
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Chuanfang Xu

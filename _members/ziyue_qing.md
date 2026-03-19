@@ -2,7 +2,7 @@
 name: 秦紫玥
 image: images/members/researchers/qinzy.jpg
 role: 2024
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Ziyue Qin

@@ -2,7 +2,7 @@
 name: 王怡然
 image: images/members/researchers/yiran_wang.jpg
 role: 2024
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Yiran Wang

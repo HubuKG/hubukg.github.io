@@ -2,7 +2,7 @@
 name: 陈丽帆
 image: images/members/researchers/lifan_chen.jpg
 role: 2024
-description: 硕士国奖
+description: 硕士，国家奖学金
 affiliation: 
 aliases:
   - Lifan Chen

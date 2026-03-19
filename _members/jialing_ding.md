@@ -2,7 +2,7 @@
 name: 丁嘉玲
 image:  images/members/researchers/jialing_ding.jpg
 role: 2025
-description: 
+description: 硕士
 affiliation: 
 aliases:
   - Jialing Ding
