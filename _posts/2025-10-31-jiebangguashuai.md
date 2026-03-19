@@ -1,7 +1,7 @@
 ---
 title: “挑战杯”揭榜挂帅擂台赛全国一等奖！
 image: /images/posts/2025-10-31-jiebangguashuai/image_1.png
-tags: 竞赛
+tags: 学科竞赛
 last_modified_at: ""
 ---
 
