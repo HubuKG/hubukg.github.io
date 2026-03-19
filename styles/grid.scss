@@ -34,6 +34,12 @@ $one: 500px;
   }
 }
 
+/* 关键：只有 2 个子元素时，居中布局，不再均分3列 */
+.grid:has(*:nth-child(2):last-child) {
+  grid-template-columns: auto auto !important;
+  justify-content: center !important;
+}
+
 .grid[data-style="square"] {
   align-items: center;
 
