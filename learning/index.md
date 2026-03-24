@@ -44,25 +44,19 @@ nav:
 
 ### 2、综述论文：
 
-- [1] Liang K, Meng L, Liu M, et al. A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal[J].  IEEE Transactions on Pattern Analysis and Machine Intelligence. 46(12):9456–9478. DOI: https://doi.org/10.1109/TPAMI.2024.3417451.  （静态、时序、多模态知识图谱推理）
-
-- [2] Wang Z, Li A, et al. Temporal Knowledge Graph Reasoning: A Survey of Representation Learning, Rule-based Learning, and Neural-Symbolic Hybrid Methods. 2025 IEEE 10th International Conference on Data Science in Cyberspace. DOI: https://doi.org/10.1109/DSC67331.2025.00019.（时序知识图谱推理）
-
-- [3] Niu G, Li B, et al. A Comprehensive Survey of Knowledge Graph Reasoning: Approaches and Applications[J].  IEEE Transactions on Big Data, 2026, 1-20. DOI: https://doi.org/10.1109/TBDATA.2026.3668633. （知识图谱表示与应用）
-
-- [4] Wang Q, Mao Z, Wang B, et al. Knowledge Graph Embedding: A Survey of Approaches and Applications[J]. IEEE Transactions on Knowledge and Data Engineering, 2017, 29(12): 2724-2743.（知识图谱嵌入首篇权威综述）
-
-- [5] 李志飞, 赵月, 张龑. 基于表示学习的知识图谱推理研究综述[J]. 计算机科学, 2023, 50(3): 94-113.
+1. Liang K, Meng L, Liu M, et al. A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal[J]. [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), 2024, 46(12): 9456–9478. (静态、时序、多模态知识图谱推理)
+2. Niu G, Li B, et al. A Comprehensive Survey of Knowledge Graph Reasoning: Approaches and Applications[J].  IEEE Transactions on Big Data, 2026, 1-20. DOI: https://doi.org/10.1109/TBDATA.2026.3668633. （知识图谱推理与应用）
+3. Wang Q, Mao Z, Wang B, et al. Knowledge Graph Embedding: A Survey of Approaches and Applications[J]. IEEE Transactions on Knowledge and Data Engineering, 2017, 29(12): 2724-2743.（知识图谱嵌入首篇权威综述）
+4. 李志飞, 赵月, 张龑. 基于表示学习的知识图谱推理研究综述[J]. 计算机科学, 2023, 50(3): 94-113.
 
 ### 3、推荐资源：
 
-<a href="https://github.com/Yueshengxia/KGE">
-      https://github.com/Yueshengxia/KGE
-</a>
-
-<a href="https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning">
-      https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
-</a>
+1. <a href="https://github.com/Yueshengxia/KGE">
+         https://github.com/Yueshengxia/KGE
+   </a>
+2. <a href="https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning">
+         https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
+   </a>
 
 ## 二、多模态实体对齐
 
@@ -79,18 +73,17 @@ nav:
 
 ### 2、综述论文：
 
-- [1] Zeng K, Li C, Hou L, et al. A comprehensive survey of entity alignment for knowledge graphs[J]. AI Open, 2021, 2: 1-13.
-- [2] Chen Z, Zhang Y, Fang Y, et al. Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey[J]. arXiv preprint arXiv:2402.05391, 2024.
+1. Zeng K, Li C, Hou L, et al. A comprehensive survey of entity alignment for knowledge graphs[J]. AI Open, 2021, 2: 1-13.
+2. Chen Z, Zhang Y, Fang Y, et al. Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey[J]. arXiv preprint arXiv:2402.05391, 2024.
 
 ## 3、推荐资源：
 
-<a href="https://github.com/zjukg/KG-MM-Survey?tab=readme-ov-file#multi-modal-entity-alignment">
-      https://github.com/zjukg/KG-MM-Survey?tab=readme-ov-file#multi-modal-entity-alignment
-</a>
-
-<a href="https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning">
-      https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
-</a>
+1. <a href="https://github.com/zjukg/KG-MM-Survey?tab=readme-ov-file#multi-modal-entity-alignment">
+         https://github.com/zjukg/KG-MM-Survey?tab=readme-ov-file#multi-modal-entity-alignment
+   </a>
+2. <a href="https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning">
+         https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
+   </a>
 
 ## 三、多模态知识推荐
 
@@ -109,28 +102,23 @@ nav:
 
 ### 2、综述论文：
 
-- [1] Xu, J., Chen, Z., Yang, S., Li, J., Wang, W., Hu, X., ... & Ngai, E. (2026). A survey on multimodal recommender systems: Recent advances and future directions. IEEE Transactions on Multimedia. （多模态推荐论文梳理）
-- [2] Zhou H, Zhou X, Zeng Z, et al. A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions[J]. arXiv preprint arXiv:2302.04473, 2023. （多模态推荐代码框架）
-- [3] Deldjoo Y, Schedl M, Cremonesi P, et al. Recommender systems leveraging multimedia content[J]. ACM Computing Surveys, 2020, 53(5): 1-38. （多模态推荐）
-- [4] Gao C, Zheng Y, Li N, et al. A survey of graph neural networks for recommender systems: Challenges, methods, and directions[J]. ACM Transactions on Recommender Systems, 2023, 1(1): 1-51. （图神经网络推荐）
-- [5] Guo Q, Zhuang F, Qin C, et al. A survey on knowledge graph-based recommender systems[J]. IEEE Transactions on Knowledge and Data Engineering, 2020, 34(8): 3549-3568. （知识图谱推荐）
+1. Xu, J., Chen, Z., Yang, S., Li, J., Wang, W., Hu, X., ... & Ngai, E. (2026). A survey on multimodal recommender systems: Recent advances and future directions. IEEE Transactions on Multimedia. （多模态推荐论文）
+2. Zhou H, Zhou X, Zeng Z, et al. A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions[J]. arXiv preprint arXiv:2302.04473, 2023. （多模态推荐代码框架）
+3. Guo Q, Zhuang F, Qin C, et al. A survey on knowledge graph-based recommender systems[J]. IEEE Transactions on Knowledge and Data Engineering, 2020, 34(8): 3549-3568. （知识图谱推荐）
 
 ### 3、推荐资源：
 
+1. <a href="https://github.com/Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems">
+         https://github.com/Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems
+   </a>
+2. 
+   <a href="https://github.com/enoche/MultimodalRecSys">
+         https://github.com/enoche/MultimodalRecSys
+   </a>
 
-<a href="https://github.com/Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems">
-      https://github.com/Jinfeng-Xu/Awesome-Multimodal-Recommender-Systems
-</a>
-
-
-<a href="https://github.com/enoche/MultimodalRecSys">
-      https://github.com/enoche/MultimodalRecSys
-</a>
-
-
-<a href="https://github.com/ceo21ckim/Awesome-Recsys">
-      https://github.com/ceo21ckim/Awesome-Recsys
-</a>
+3. <a href="https://github.com/ceo21ckim/Awesome-Recsys">
+         https://github.com/ceo21ckim/Awesome-Recsys
+   </a>
 
 ## 四、视觉知识问答
 
@@ -160,18 +148,17 @@ nav:
 
 ### 2、综述论文：
 
-- [1] Ma J, Wang P, Kong D, et al. Robust Visual Question Answering: Datasets, Methods, and Future Challenges[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46(8): 5575-5594.
-- [2] Kim B S, Kim J, Lee D, et al. Visual question answering: A survey of methods, datasets, evaluation, and challenges[J]. ACM Computing Surveys, 2025, 57(10): 1-35.
+1. Ma J, Wang P, Kong D, et al. Robust Visual Question Answering: Datasets, Methods, and Future Challenges[J]. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024, 46(8): 5575-5594.
+2. Kim B S, Kim J, Lee D, et al. Visual question answering: A survey of methods, datasets, evaluation, and challenges[J]. ACM Computing Surveys, 2025, 57(10): 1-35.
 
 ### 3、推荐资源：
 
-<a href="https://github.com/ali-vosoughi/PW-VQA">
-      https://github.com/ali-vosoughi/PW-VQA
-</a>
-
-<a href="https://github.com/ishmamt/Visual-Robustness">
-      https://github.com/ishmamt/Visual-Robustness
-</a>
+1. <a href="https://github.com/ali-vosoughi/PW-VQA">
+         https://github.com/ali-vosoughi/PW-VQA
+   </a>
+2. <a href="https://github.com/ishmamt/Visual-Robustness">
+         https://github.com/ishmamt/Visual-Robustness
+   </a>
 
 ## 五、深度知识追踪
 
@@ -192,18 +179,17 @@ nav:
 
 ### 2、综述论文：
 
-- [1] Shen S, Liu Q, Huang Z, et al. A Survey of Knowledge Tracing: Models, Variants, and Applications[J]. IEEE Transactions on Learning Technologies, 2024, 17: 1898-1919.
-- [2] Abdelrahman G, Wang Q, Nunes B. Knowledge tracing: A survey[J]. ACM Computing Surveys, 2023, 55(11): 1-37.
+1. Shen S, Liu Q, Huang Z, et al. A Survey of Knowledge Tracing: Models, Variants, and Applications[J]. IEEE Transactions on Learning Technologies, 2024, 17: 1898-1919.
+2. Abdelrahman G, Wang Q, Nunes B. Knowledge tracing: A survey[J]. ACM Computing Surveys, 2023, 55(11): 1-37.
 
 ### 3、推荐资源：
 
-<a href="https://github.com/bigdata-ustc/EduKTM">
-     https://github.com/bigdata-ustc/EduKTM
-</a>
-
-<a href="https://github.com/pykt-team/pykt-toolkit">
-      https://github.com/pykt-team/pykt-toolkit
-</a>
+1. <a href="https://github.com/bigdata-ustc/EduKTM">
+        https://github.com/bigdata-ustc/EduKTM
+   </a>
+2. <a href="https://github.com/pykt-team/pykt-toolkit">
+         https://github.com/pykt-team/pykt-toolkit
+   </a>
 
 ## 六、大模型知识编辑
 
@@ -226,19 +212,18 @@ nav:
 
 ### 2、综述论文：
 
-- [1] Mengru Wang, Yunzhi Yao, et al. Knowledge Mechanisms in Large Language Models: A Survey and Perspective[J]. EMNLP 2024
-- [2] Ningyu Zhang, Yunzhi Yao, et al. A Comprehensive Study of Knowledge Editing for Large Language Models [J]. 2024, arxiv:2401.01286
-- [3] Song Wang, Yaochen Zhu, et al.Knowledge Editing for Large Language Models: A Survey[J]. ACM Computing Surveys, 57(3) , 2025.
+1. Mengru Wang, Yunzhi Yao, et al. Knowledge Mechanisms in Large Language Models: A Survey and Perspective[J]. EMNLP 2024
+2. Ningyu Zhang, Yunzhi Yao, et al. A Comprehensive Study of Knowledge Editing for Large Language Models [J]. 2024, arxiv:2401.01286
+3. Song Wang, Yaochen Zhu, et al.Knowledge Editing for Large Language Models: A Survey[J]. ACM Computing Surveys, 57(3) , 2025.
 
 ### 3、推荐资源：
 
-<a href="https://github.com/zjunlp/KnowledgeEditingPapers">
-     https://github.com/zjunlp/KnowledgeEditingPapers
-</a>
-
-<a href="https://github.com/zjunlp/EasyEdit">
-      https://github.com/zjunlp/EasyEdit
-</a>
+1. <a href="https://github.com/zjunlp/KnowledgeEditingPapers">
+        https://github.com/zjunlp/KnowledgeEditingPapers
+   </a>
+2. <a href="https://github.com/zjunlp/EasyEdit">
+         https://github.com/zjunlp/EasyEdit
+   </a>
 
 
 
