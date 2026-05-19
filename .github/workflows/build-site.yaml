@@ -54,4 +54,4 @@ jobs:
         with:
           folder: _site
           clean-exclude: ${{ env.PREVIEWS_FOLDER }}
-          force: false
+          force: true
