@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.inffus.2026.104484
+  title: 'DAGE: Decay-Aware Graph Extrapolation for Temporal Knowledge Graph Reasoning'
+  authors:
+  - Miao Zhang
+  - Zhangyang Xu
+  - Xuchao Gong
+  - Zhifei Li
+  - Yamin Li
+  - Po Hu
+  - Kui Xiao
+  - Yan Zhang
+  - Ziyi Huang
+  publisher: Information Fusion
+  date: '2026-05-01'
+  link: https://doi.org/hb4n36
+  orcid: 0000-0003-0443-0094
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ipm.2026.104896
   title: Noise-robust item modeling and dynamic multiview contrastive learning for
     multimodal recommendation
@@ -80,24 +98,6 @@
   publisher: ACM Transactions on Knowledge Discovery from Data
   date: '2026-02-10'
   link: https://doi.org/hbr5fm
-  orcid: 0000-0003-0443-0094
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.inffus.2026.104484
-  title: 'DAGE: Decay-Aware Graph Extrapolation for Temporal Knowledge Graph Reasoning'
-  authors:
-  - Miao Zhang
-  - Zhangyang Xu
-  - Xuchao Gong
-  - Zhifei Li
-  - Yamin Li
-  - Po Hu
-  - Kui Xiao
-  - Yan Zhang
-  - Ziyi Huang
-  publisher: Information Fusion
-  date: '2026-05-01'
-  link: https://doi.org/hb4n36
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
   file: orcid.yaml
