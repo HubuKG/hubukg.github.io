@@ -37,8 +37,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.inffus.2026.104299
-  title: 'Let Two Graphs Talk: Self-Supervised Dual-Graph Reconstruction for Multimodal
-    Recommendation'
+  title: 'Let two graphs talk: Self-supervised dual-graph reconstruction for multimodal
+    recommendation'
   authors:
   - Hongjian Ma
   - Yan Zhang
@@ -47,7 +47,7 @@
   - Dunhui Yu
   - Zhifei Li
   publisher: Information Fusion
-  date: '2026-03-01'
+  date: '2026-09-01'
   link: https://doi.org/hbsn4n
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
@@ -96,7 +96,7 @@
   - Yan Zhang
   - Zhifei Li
   publisher: ACM Transactions on Knowledge Discovery from Data
-  date: '2026-02-10'
+  date: '2026-04-10'
   link: https://doi.org/hbr5fm
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
@@ -206,25 +206,6 @@
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2601.01926
-  title: 'MacVQA: Adaptive Memory Allocation and Global Noise Filtering for Continual
-    Visual Question Answering'
-  authors:
-  - Zhifei Li
-  - Yiran Wang
-  - Chenyi Xiong
-  - Yujing Xia
-  - Xiaoju Hou
-  - Yue Zhao
-  - Miao Zhang
-  - Kui Xiao
-  - Bing Yang
-  publisher: arXiv
-  date: '2026-01-01'
-  link: https://doi.org/hb3fkz
-  orcid: 0000-0003-0443-0094
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1609/aaai.v40i23.39003
   title: 'MyGram: Modality-aware Graph Transformer with Global Distribution for Multi-modal
     Entity Alignment'
@@ -241,25 +222,6 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2026-03-14'
   link: https://doi.org/hb3fk2
-  orcid: 0000-0003-0443-0094
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.48550/arXiv.2601.11885
-  title: 'MyGram: Modality-aware Graph Transformer with Global Distribution for Multi-modal
-    Entity Alignment'
-  authors:
-  - Zhifei Li
-  - Ziyue Qin
-  - Xiangyu Luo
-  - Xiaoju Hou
-  - Yue Zhao
-  - Miao Zhang
-  - Zhifang Huang
-  - Kui Xiao
-  - Bing Yang
-  publisher: arXiv
-  date: '2026-01-01'
-  link: https://doi.org/hb3fk3
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
   file: orcid.yaml
@@ -488,23 +450,6 @@
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2509.20884
-  title: Integrating Object Interaction Self-Attention and GAN-Based Debiasing for
-    Visual Question Answering
-  authors:
-  - Zhifei Li
-  - Feng Qiu
-  - Yiran Wang
-  - Yujing Xia
-  - Kui Xiao
-  - Miao Zhang
-  - Yan Zhang
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hb3fmb
-  orcid: 0000-0003-0443-0094
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.11896/jsjkx.240700053
   title: "\u878D\u5408\u8BCD\u95F4\u53E5\u95F4\u591A\u5173\u7CFB\u5EFA\u6A21\u7684\
     \u8BC4\u8BBA\u63A8\u8350\u7B97\u6CD5"
@@ -532,24 +477,6 @@
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2512.18709
-  title: 'KeenKT: Knowledge Mastery-State Disambiguation for Knowledge Tracing'
-  authors:
-  - Zhifei Li
-  - Lifan Chen
-  - Jiali Yi
-  - Xiaoju Hou
-  - Yue Zhao
-  - Wenxin Huang
-  - Miao Zhang
-  - Kui Xiao
-  - Bing Yang
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hb3fmf
-  orcid: 0000-0003-0443-0094
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1609/aaai.v39i2.32156
   title: Learning Concept Prerequisite Relation via Global Knowledge Relation Optimization
   authors:
@@ -563,57 +490,6 @@
   publisher: Proceedings of the AAAI Conference on Artificial Intelligence
   date: '2025-04-11'
   link: https://doi.org/hb3fmg
-  orcid: 0000-0003-0443-0094
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.48550/arXiv.2509.20871
-  title: 'SCRA-VQA: Summarized Caption-Rerank for Augmented Large Language Models
-    in Visual Question Answering'
-  authors:
-  - Yan Zhang
-  - Jiaqing Lin
-  - Miao Zhang
-  - Kui Xiao
-  - Xiaoju Hou
-  - Yue Zhao
-  - Zhifei Li
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hb3fmh
-  orcid: 0000-0003-0443-0094
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.48550/arXiv.2511.00584
-  title: Structurally Refined Graph Transformer for Multimodal Recommendation
-  authors:
-  - Ke Shi
-  - Yan Zhang
-  - Miao Zhang
-  - Lifan Chen
-  - Jiali Yi
-  - Kui Xiao
-  - Xiaoju Hou
-  - Zhifei Li
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hb3fmj
-  orcid: 0000-0003-0443-0094
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.48550/arXiv.2405.16003
-  title: Disentangling Heterogeneous Knowledge Concept Embedding for Cognitive Diagnosis
-    on Untested Knowledge
-  authors:
-  - Miao Zhang
-  - Ziming Wang
-  - Runtian Xing
-  - Kui Xiao
-  - Zhifei Li
-  - Yan Zhang
-  - Chang Tang
-  publisher: arXiv
-  date: '2024-01-01'
-  link: https://doi.org/hb3fmk
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
   file: orcid.yaml
@@ -659,21 +535,6 @@
   publisher: Multimedia Tools and Applications
   date: '2024-03-22'
   link: https://doi.org/hb3fmp
-  orcid: 0000-0003-0443-0094
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.2139/ssrn.4959344
-  title: Noise-Enhanced Graph Contrastive Learning for Multimodal Recommendation Systems
-  authors:
-  - Ke Shi
-  - Yan Zhang
-  - Miao Zhang
-  - Kui Xiao
-  - Xiaoju Hou
-  - Zhifei Li
-  publisher: Elsevier BV
-  date: '2024-01-01'
-  link: https://doi.org/hb3fmq
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
   file: orcid.yaml
