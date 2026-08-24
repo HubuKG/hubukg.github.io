@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1016/j.inffus.2026.104484
-  title: 'DAGE: Decay-Aware Graph Extrapolation for Temporal Knowledge Graph Reasoning'
+  title: 'DAGE: decay-aware graph extrapolation for temporal knowledge graph reasoning'
   authors:
   - Miao Zhang
   - Zhangyang Xu
@@ -13,7 +13,7 @@
   - Yan Zhang
   - Ziyi Huang
   publisher: Information Fusion
-  date: '2026-05-01'
+  date: '2026-11-01'
   link: https://doi.org/hb4n36
   orcid: 0000-0003-0443-0094
   plugin: orcid.py
@@ -623,7 +623,7 @@
   title: "\u57FA\u4E8E\u8868\u793A\u5B66\u4E60\u7684\u77E5\u8BC6\u56FE\u8C31\u63A8\
     \u7406\u7814\u7A76\u7EFC\u8FF0"
   authors:
-  - 'LI Zhifei '
+  - "\u674E\u5FD7\u98DE "
   publisher: "\u8BA1\u7B97\u673A\u79D1\u5B66"
   date: '2023-01-01'
   link: https://doi.org/hb3fmt
